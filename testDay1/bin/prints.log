@@ -1,0 +1,7 @@
+22:40:16.812 [main] FATAL testDay1.TestLog4j - this is fatal
+23:20:47.335 [main] INFO  testDay1.Testcase1 - Hello
+23:20:47.337 [main] INFO  testDay1.Testcase1 - Testin1
+23:20:47.338 [main] DEBUG testDay1.Testcase1 - I am debugging
+23:20:47.338 [main] INFO  testDay1.Testcase1 - object is found
+23:20:47.338 [main] ERROR testDay1.Testcase1 - object is not found
+23:20:47.338 [main] FATAL testDay1.Testcase1 - this is fatal

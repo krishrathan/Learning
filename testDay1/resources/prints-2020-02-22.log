@@ -1,0 +1,9 @@
+20:19:13.494 [main] FATAL testDay1.TestLog4j - this is fatal
+21:33:03.575 [main] INFO  testDay1.TestLog4j - Hello
+21:33:03.578 [main] INFO  testDay1.TestLog4j - qaclickacademy.com
+21:33:03.578 [main] DEBUG testDay1.TestLog4j - I am debugging
+21:33:03.578 [main] INFO  testDay1.TestLog4j - object is found
+21:33:03.578 [main] ERROR testDay1.TestLog4j - object is not found
+21:33:03.578 [main] FATAL testDay1.TestLog4j - this is fatal
+21:36:24.764 [main] INFO  testDay1.TestLog4j - Hello
+21:36:24.767 [main] INFO  testDay1.TestLog4j - Testin1
